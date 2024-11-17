@@ -17,7 +17,7 @@
    - [Running the script](#running-the-script-1)
 4. [Credits](#credits)
 
----
+<br/>
 
 ## Setting up
 
@@ -48,12 +48,12 @@
    ```
    
 ---
+<br/>
 
 # WhatsApp Chat Screenshot Capture Tool
 
 This Python script automates the process of capturing screenshots of a WhatsApp chat on an Android device. It uses the **Android Debug Bridge (ADB)** to communicate with the device and Python libraries for image processing and comparison.
 
----
 
 ## Features
 - Automatically navigates to a specified WhatsApp chat.
@@ -61,7 +61,6 @@ This Python script automates the process of capturing screenshots of a WhatsApp 
 - Detects repeated content to avoid redundant screenshots.
 - Performs swipe gestures to scroll through the chat.
 
----
 
 ## Requirements
 
@@ -75,7 +74,7 @@ To install these dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```   
----
+
 ## Prerequisites
 1. An Android device.
 2. WhatsApp installed in the Android device.
@@ -114,7 +113,8 @@ This repository includes the necessary `adb.exe` executable and related files fo
 
 If you experience any issues with the included ADB, ensure the device is connected properly and that USB Debugging is enabled.
 
----
+#
+
 ## Running the script 
    ```bash
    python adb_script.py
@@ -133,7 +133,7 @@ This Python script automates the process of taking screenshots of an Instagram p
 - Captures screenshots of all image posts by scrolling through the profile.
 - Saves screenshots in a designated folder.
 
----
+
 
 ## Requirements
 
@@ -148,22 +148,19 @@ To install these dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```   
----
+
 ## Prerequisites
 1. Google Chrome installed on your system.
 3. Instagram account credentials (username and password).
 
----
+#
 ## Running the script 
    ```bash
    python seln_script.py
    ```
 ---
-<br/>
 
 ### Credits
 
-Finally,<br/>
-Thanks to [Ayush Jayaswal](https://github.com/ayusjayaswal)
-, (our team leader for SIH), for the idea, and for helping me out!<br/>
+Thanks to [Ayush Jayaswal](https://github.com/ayusjayaswal)(our team leader for SIH), for the idea, and all the guidance!<br/>
 I really got to learn so much...
