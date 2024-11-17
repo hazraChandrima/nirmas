@@ -52,7 +52,7 @@
 
 # WhatsApp Chat Screenshot Capture Tool
 
-This Python script automates the process of capturing screenshots of a WhatsApp chat on an Android device. It uses the **Android Debug Bridge (ADB)** to communicate with the device and Python libraries for image processing and comparison.
+It automates the process of capturing screenshots of a WhatsApp chat on an Android device. It uses the **Android Debug Bridge (ADB)** to communicate with the device and Python libraries for image processing and comparison.
 
 
 ## Features
@@ -124,7 +124,7 @@ If you experience any issues with the included ADB, ensure the device is connect
 
 # Instagram Posts Screenshot Capture Tool
 
-This Python script automates the process of taking screenshots of an Instagram profile and its posts (images only) using **Selenium WebDriver** and **Chromedriver**. The script ensures compatibility with your installed Chrome version using `chromedriver_autoinstaller`.
+It automates the process of taking screenshots of an Instagram profile and its posts (images only) using **Selenium WebDriver** and **Chromedriver**. The script ensures compatibility with your installed Chrome version using `chromedriver_autoinstaller`.
 
 
 ## Features
