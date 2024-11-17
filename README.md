@@ -1,7 +1,7 @@
 # NIRMAS 
  Tired of manually screenshotting Instagram profiles/posts and WhatsApp chats? Let NIRMAS do the creepy work for you. It logs in, scrolls, and snatches every image while you pretend you're not a stalker-just don’t blame us if you get caught.
 
-## Table of Contents
+## 📜 Contents
 1. [Setting Up](#setting-up)
 2. [WhatsApp Chat Screenshot Capture Tool](#whatsapp-chat-screenshot-capture-tool)
    - [Features](#features)
@@ -19,7 +19,7 @@
 
 <br/>
 
-## Setting up
+## 🛠️ Setting up
 
 1. Clone the repo:
    ```bash
@@ -55,14 +55,14 @@
 It automates the process of capturing screenshots of a WhatsApp chat on an Android device. It uses the **Android Debug Bridge (ADB)** to communicate with the device and Python libraries for image processing and comparison.
 
 
-## Features
+## ✨ Features
 - Automatically navigates to a specified WhatsApp chat.
 - Captures screenshots of the chat and saves them locally.
 - Detects repeated content to avoid redundant screenshots.
 - Performs swipe gestures to scroll through the chat.
 
 
-## Requirements
+## 📝 Requirements
 
 ### Python Dependencies
 Ensure you have Python installed on your system. The script uses the following libraries:
@@ -75,7 +75,7 @@ To install these dependencies, run:
 pip install -r requirements.txt
 ```   
 
-## Prerequisites
+## ✅ Prerequisites
 1. An Android device.
 2. WhatsApp installed in the Android device.
 3. USB Debugging enabled on the device (steps provided below).
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ---
 
-## Bundled ADB
+## 📦 Bundled ADB
 
 This repository includes the necessary `adb.exe` executable and related files for Windows systems. 
 
@@ -115,8 +115,8 @@ If you experience any issues with the included ADB, ensure the device is connect
 
 #
 
-## Running the script 
-   ```bash
+## ⚙️ Running the script 
+   ```bash💡📜
    python adb_script.py
    ```
 ---
@@ -126,7 +126,7 @@ If you experience any issues with the included ADB, ensure the device is connect
 
 It automates the process of taking screenshots of an Instagram profile and its posts (images only) using **Selenium WebDriver** for **Chrome**. 
 
-## Features
+## ✨ Features
 - Logs into an Instagram account.
 - Captures a screenshot of the user profile.
 - Captures screenshots of all image posts by scrolling through the profile.
@@ -134,7 +134,7 @@ It automates the process of taking screenshots of an Instagram profile and its p
 
 
 
-## Requirements
+## 📝 Requirements
 
 ### Python Dependencies
 Ensure you have Python installed on your system. The script uses the following libraries:
@@ -148,18 +148,18 @@ To install these dependencies, run:
 pip install -r requirements.txt
 ```   
 
-## Prerequisites
+## ✅ Prerequisites
 1. Google Chrome installed on your system.
 3. Instagram account credentials (username and password).
 
 #
-## Running the script 
+## ⚙️ Running the script 
    ```bash
    python seln_script.py
    ```
 ---
 
-### Credits
+### 🙌 Credits
 
 Thanks to [Ayush Jayaswal](https://github.com/ayusjayaswal)(our team leader for SIH), for the idea, and all the guidance!<br/>
 I really got to learn so much...
