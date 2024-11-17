@@ -4,7 +4,7 @@
  Let NIRMAS do the creepy work for you. It logs in, scrolls, and snatches every image while you pretend you're not a stalker.....just don’t blame us if you get caught 😶‍🌫️
 
 ## 📜 Contents
-1. [Setting Up](#-setting-up)
+1. [Setting Up](#%EF%B8%8F-setting-up)
 2. [WhatsApp Chat Screenshot Capture Tool](#whatsapp-chat-screenshot-capture-tool)
    - [Features](#-features)
    - [Requirements](#-requirements)
