@@ -11,12 +11,12 @@
    - [Prerequisites](#-prerequisites)
    - [Steps to Enable USB Debugging on Android](#steps-to-enable-usb-debugging-on-android)
    - [Bundled ADB](#-bundled-adb)
-   - [Running the script](#-running-the-script-)
+   - [Running the script](#%EF%B8%8F-running-the-script)
 3. [Instagram Posts Screenshot Capture Tool](#instagram-posts-screenshot-capture-tool)
    - [Features](#-features-1)
    - [Requirements](#-requirements-1)
    - [Prerequisites](#-prerequisites-1)
-   - [Running the script](#-running-the-script--1)
+   - [Running the script](#%EF%B8%8F-running-the-script-1)
 4. [Credits](#-credits)
 
 <br/>
