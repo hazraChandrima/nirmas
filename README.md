@@ -2,20 +2,20 @@
  Tired of manually screenshotting Instagram profiles/posts and WhatsApp chats? Let NIRMAS do the creepy work for you. It logs in, scrolls, and snatches every image while you pretend you're not a stalker-just don’t blame us if you get caught.
 
 ## 📜 Contents
-1. [Setting Up](#setting-up)
+1. [Setting Up](#-setting-up)
 2. [WhatsApp Chat Screenshot Capture Tool](#whatsapp-chat-screenshot-capture-tool)
-   - [Features](#features)
-   - [Requirements](#requirements)
-   - [Prerequisites](#prerequisites)
+   - [Features](#-features)
+   - [Requirements](#-requirements)
+   - [Prerequisites](#-prerequisites)
    - [Steps to Enable USB Debugging on Android](#steps-to-enable-usb-debugging-on-android)
-   - [Bundled ADB](#bundled-adb)
-   - [Running the script](#running-the-script)
+   - [Bundled ADB](#-bundled-adb)
+   - [Running the script](#-running-the-script-)
 3. [Instagram Posts Screenshot Capture Tool](#instagram-posts-screenshot-capture-tool)
-   - [Features](#features-1)
-   - [Requirements](#requirements-1)
-   - [Prerequisites](#prerequisites-1)
-   - [Running the script](#running-the-script-1)
-4. [Credits](#credits)
+   - [Features](#-features-1)
+   - [Requirements](#-requirements-1)
+   - [Prerequisites](#-prerequisites-1)
+   - [Running the script](#-running-the-script--1)
+4. [Credits](#-credits)
 
 <br/>
 
