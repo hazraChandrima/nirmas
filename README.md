@@ -124,8 +124,7 @@ If you experience any issues with the included ADB, ensure the device is connect
 
 # Instagram Posts Screenshot Capture Tool
 
-It automates the process of taking screenshots of an Instagram profile and its posts (images only) using **Selenium WebDriver** and **Chromedriver**. The script ensures compatibility with your installed Chrome version using `chromedriver_autoinstaller`.
-
+It automates the process of taking screenshots of an Instagram profile and its posts (images only) using **Selenium WebDriver** for **Chrome**. 
 
 ## Features
 - Logs into an Instagram account.
@@ -140,7 +139,7 @@ It automates the process of taking screenshots of an Instagram profile and its p
 ### Python Dependencies
 Ensure you have Python installed on your system. The script uses the following libraries:
 - **selenium** (for browser automation)
-- **chromedriver-autoinstaller** (for ensuring Chromedriver compatibility)
+- **chromedriver-autoinstaller** (for ensuring Chromedriver compatibility with installed Chrome version in your system)
 - **colorama** (for colored console output)
 - **Pillow** (for image processing)
 
