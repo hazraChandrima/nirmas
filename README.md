@@ -23,7 +23,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/hazraChandrima/nirmas.git
+   git clone --depth=1 https://github.com/hazraChandrima/nirmas.git
    cd nirmas
    ```
 
